@@ -5,8 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 create a new branch dev1
 create a new branch dev
-creating a new &
-creating feature1 and
-switched test
-add fast forwar
-add test branch dev
